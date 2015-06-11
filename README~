@@ -1,0 +1,36 @@
+Summary of All Project on My GitHib..
+
+Android_DailySelfie
+Demonstrates use of:
+- ListView Adapters
+- Camera Calls and Dealing with Returns.
+- Load/Save to SD Card.
+- Bitmap/JPEG Conversions
+- Alarm Notifications.
+- Simple Button Styling.
+
+Android_ModernArtUI:
+Demonstrates use of:
+- Slider bar to change styling.
+- Alert Dialogs
+- Opening External activities (opening browser)
+
+SHP:
+Incomplete version of my Java based dissertation.
+
+Coursework_Othello:
+- First year university project of the boardgame othello.
+Demonstrates:
+- Based AI.
+- Swing/AWT Java Interfaces.
+- Networked gameplay (playable to a set API, allowed interaction with other peoples coursework)
+
+Coursework_ProtocolBuffers:
+- Use of google's protofol buffers for simple message passing.
+
+SE_Scrum:
+(early stage of development)
+- Simple Django project, Completed using Agile Method. The methodology was the mos important part of this project.
+
+
+
